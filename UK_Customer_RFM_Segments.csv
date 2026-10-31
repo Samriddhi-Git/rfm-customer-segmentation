@@ -1,0 +1,368 @@
+CustomerID,recency,frequency,monetary,r_score,f_score,m_score,rfm_cell,customer_segment
+15,1,6498,254925.00,5,5,5,555,Champions
+30,1,2764,128370.00,5,5,5,555,Champions
+179,2,223,93438.00,5,5,5,555,Champions
+102,1,603,80274.00,5,5,5,555,Champions
+17,1,2492,67881.00,5,5,5,555,Champions
+45,2,734,44550.00,5,5,5,555,Champions
+38970,183,1,38970.00,1,1,5,115,"Lost Customers"
+33,2,621,38445.00,5,5,5,555,Champions
+51,1,532,32028.00,5,5,5,555,Champions
+165,4,104,31020.00,5,5,5,555,Champions
+90,2,264,29070.00,5,5,5,555,Champions
+60,2,389,28980.00,5,5,5,555,Champions
+358,5,39,27566.00,4,5,5,455,Champions
+145,4,112,26245.00,5,5,5,555,Champions
+1374,86,4,26106.00,2,3,5,235,"At Risk / Can't Lose"
+25,2,763,24125.00,5,5,5,555,Champions
+34,1,543,24004.00,5,5,5,555,Champions
+204,2,104,23664.00,5,5,5,555,Champions
+916,86,7,21984.00,2,4,5,245,"At Risk / Can't Lose"
+3285,50,1,19710.00,3,2,5,325,"Needs Attention"
+72,2,184,17784.00,5,5,5,555,Champions
+180,3,83,16920.00,5,5,5,555,Champions
+537,8,19,14499.00,4,5,5,455,Champions
+135,2,81,14445.00,5,5,5,555,Champions
+270,2,38,14310.00,5,5,5,555,Champions
+306,3,43,14076.00,5,5,5,555,Champions
+2290,73,3,13740.00,2,3,5,235,"At Risk / Can't Lose"
+153,3,71,13464.00,5,5,5,555,Champions
+120,9,96,13200.00,4,5,5,455,Champions
+330,38,21,12870.00,3,5,5,355,"Loyal Customers"
+39,2,219,12402.00,5,5,5,555,Champions
+297,23,28,11880.00,4,5,5,455,Champions
+68,2,149,11696.00,5,5,5,555,Champions
+5,1,1328,11595.00,5,5,5,555,Champions
+20,2,365,10740.00,5,5,5,555,Champions
+21,1,331,10458.00,5,5,5,555,Champions
+75,2,114,10200.00,5,5,5,555,Champions
+174,25,32,9744.00,4,5,5,455,Champions
+232,3,42,9744.00,5,5,5,555,Champions
+66,2,107,8976.00,5,5,5,555,Champions
+10,2,616,8800.00,5,5,5,555,Champions
+432,46,20,8640.00,3,5,5,355,"Loyal Customers"
+408,5,20,8568.00,4,5,5,455,Champions
+50,3,161,8450.00,5,5,5,555,Champions
+252,4,25,8064.00,5,5,5,555,Champions
+250,8,27,7750.00,4,5,5,455,Champions
+2496,50,3,7488.00,3,3,5,335,"Loyal Customers"
+458,73,4,7328.00,2,3,5,235,"At Risk / Can't Lose"
+99,4,59,7326.00,5,5,5,555,Champions
+136,3,49,6936.00,5,5,5,555,Champions
+175,4,7,6825.00,5,4,5,545,Champions
+1356,46,3,6780.00,3,3,5,335,"Loyal Customers"
+1314,2,5,6570.00,5,4,5,545,Champions
+27,4,220,6264.00,5,5,5,555,Champions
+144,3,34,6048.00,5,5,5,555,Champions
+81,5,68,5508.00,4,5,5,455,Champions
+384,19,3,5376.00,4,3,5,435,"Loyal Customers"
+255,30,19,5355.00,3,5,5,355,"Loyal Customers"
+360,8,13,5040.00,4,4,5,445,Champions
+85,5,59,5015.00,4,5,5,455,Champions
+350,4,7,4900.00,5,4,5,545,Champions
+816,81,6,4896.00,2,4,5,245,"At Risk / Can't Lose"
+540,31,7,4860.00,3,4,5,345,"Loyal Customers"
+528,25,8,4752.00,4,4,5,445,Champions
+4632,236,1,4632.00,1,1,5,115,"Lost Customers"
+510,18,7,4590.00,4,4,5,445,Champions
+18,2,176,4554.00,5,5,5,555,Champions
+2256,302,2,4512.00,1,2,5,125,"Lost Customers"
+2232,18,2,4464.00,4,3,5,435,"Loyal Customers"
+4401,163,1,4401.00,1,1,5,115,"Lost Customers"
+275,3,15,4400.00,5,4,5,545,Champions
+290,24,15,4350.00,4,4,5,445,Champions
+716,8,6,4296.00,4,4,5,445,Champions
+58,1,71,4292.00,5,5,4,554,Champions
+390,19,9,4290.00,4,4,4,444,Champions
+612,4,7,4284.00,5,4,4,544,Champions
+4176,128,1,4176.00,2,1,4,214,"Lost Customers"
+1044,18,4,4176.00,4,3,4,434,"Loyal Customers"
+348,60,9,4176.00,3,4,4,344,"Loyal Customers"
+594,68,6,4158.00,2,4,4,244,"At Risk / Can't Lose"
+996,66,3,3984.00,2,3,4,234,"At Risk / Can't Lose"
+660,45,6,3960.00,3,4,4,344,"Loyal Customers"
+3861,3,1,3861.00,5,2,4,524,"Recent / Promising"
+13,2,268,3861.00,5,5,4,554,Champions
+320,18,5,3840.00,4,4,4,444,Champions
+3828,368,1,3828.00,1,1,4,114,"Lost Customers"
+1914,163,2,3828.00,1,2,4,124,"Lost Customers"
+150,9,24,3750.00,4,5,4,454,Champions
+104,3,23,3744.00,5,5,4,554,Champions
+3700,333,1,3700.00,1,1,4,114,"Lost Customers"
+1836,60,2,3672.00,3,3,4,334,"Loyal Customers"
+126,15,21,3654.00,4,5,4,454,Champions
+125,3,22,3625.00,5,5,4,554,Champions
+3621,81,1,3621.00,2,2,4,224,"Lost Customers"
+1790,30,2,3580.00,4,3,4,434,"Loyal Customers"
+105,8,31,3570.00,4,5,4,454,Champions
+585,31,3,3510.00,3,3,4,334,"Loyal Customers"
+23,2,150,3473.00,5,5,4,554,Champions
+495,260,5,3465.00,1,4,4,144,"At Risk / Can't Lose"
+864,2,4,3456.00,5,3,4,534,"Loyal Customers"
+288,16,9,3456.00,4,4,4,444,Champions
+78,5,38,3432.00,4,5,4,454,Champions
+1695,249,1,3390.00,1,1,4,114,"Lost Customers"
+3380,236,1,3380.00,1,1,4,114,"Lost Customers"
+1110,60,3,3330.00,3,3,4,334,"Loyal Customers"
+415,107,8,3320.00,2,4,4,244,"At Risk / Can't Lose"
+3315,333,1,3315.00,1,1,4,114,"Lost Customers"
+1600,81,1,3200.00,2,2,4,224,"Lost Customers"
+522,60,4,3132.00,3,3,4,334,"Loyal Customers"
+3096,197,1,3096.00,1,1,4,114,"Lost Customers"
+160,15,5,3040.00,4,4,4,444,Champions
+504,31,6,3024.00,3,4,4,344,"Loyal Customers"
+750,62,4,3000.00,3,3,4,334,"Loyal Customers"
+500,53,6,3000.00,3,4,4,344,"Loyal Customers"
+272,39,11,2992.00,3,4,4,344,"Loyal Customers"
+225,11,13,2925.00,4,4,4,444,Champions
+1440,99,2,2880.00,2,3,4,234,"At Risk / Can't Lose"
+720,4,4,2880.00,5,3,4,534,"Loyal Customers"
+2868,368,1,2868.00,1,1,4,114,"Lost Customers"
+1416,68,2,2832.00,2,3,4,234,"At Risk / Can't Lose"
+216,11,9,2808.00,4,4,4,444,Champions
+198,25,14,2772.00,4,4,4,444,Champions
+2748,86,1,2748.00,2,2,4,224,"Lost Customers"
+249,38,11,2739.00,3,4,4,344,"Loyal Customers"
+2730,236,1,2730.00,1,1,4,114,"Lost Customers"
+339,5,3,2712.00,4,3,4,434,"Loyal Customers"
+2704,81,1,2704.00,2,2,4,224,"Lost Customers"
+900,4,3,2700.00,5,3,4,534,"Loyal Customers"
+87,2,27,2697.00,5,5,4,554,Champions
+2685,8,1,2685.00,4,2,4,424,"Recent / Promising"
+1326,108,2,2652.00,2,3,4,234,"At Risk / Can't Lose"
+106,4,22,2650.00,5,5,4,554,Champions
+876,11,3,2628.00,4,3,4,434,"Loyal Customers"
+375,26,7,2625.00,4,4,4,444,Champions
+2610,163,1,2610.00,1,1,4,114,"Lost Customers"
+2601,37,1,2601.00,3,2,4,324,"Needs Attention"
+195,51,13,2535.00,3,4,4,344,"Loyal Customers"
+2500,121,1,2500.00,2,1,4,214,"Lost Customers"
+59,9,36,2478.00,4,5,4,454,Champions
+825,268,1,2475.00,1,1,4,114,"Lost Customers"
+2432,12,1,2432.00,4,2,4,424,"Recent / Promising"
+480,4,5,2400.00,5,4,4,544,Champions
+42,2,49,2394.00,5,5,4,554,Champions
+295,198,8,2360.00,1,4,4,144,"At Risk / Can't Lose"
+780,9,3,2340.00,4,3,4,434,"Loyal Customers"
+1158,12,2,2316.00,4,3,4,434,"Loyal Customers"
+192,50,8,2304.00,3,4,3,343,"Loyal Customers"
+36,11,49,2304.00,4,5,3,453,"Loyal Customers"
+132,36,14,2244.00,3,4,3,343,"Loyal Customers"
+2226,37,1,2226.00,3,2,3,323,"Needs Attention"
+240,9,8,2160.00,4,4,3,443,"Loyal Customers"
+1056,45,2,2112.00,3,3,3,333,"Loyal Customers"
+162,3,13,2106.00,5,4,3,543,"Loyal Customers"
+1050,60,2,2100.00,3,3,3,333,"Loyal Customers"
+2061,86,1,2061.00,2,2,3,223,"Lost Customers"
+2046,3,1,2046.00,5,2,3,523,"Recent / Promising"
+1020,110,2,2040.00,2,2,3,223,"Lost Customers"
+170,75,12,2040.00,2,4,3,243,"At Risk / Can't Lose"
+185,40,9,2035.00,3,4,3,343,"Loyal Customers"
+1017,249,1,2034.00,1,1,3,113,"Lost Customers"
+222,37,8,1998.00,3,4,3,343,"Loyal Customers"
+1980,268,1,1980.00,1,1,3,113,"Lost Customers"
+990,143,2,1980.00,2,2,3,223,"Lost Customers"
+396,50,5,1980.00,3,4,3,343,"Loyal Customers"
+1860,81,1,1860.00,2,2,3,223,"Lost Customers"
+918,31,2,1836.00,3,3,3,333,"Loyal Customers"
+459,4,4,1836.00,5,3,3,533,"Loyal Customers"
+1832,86,1,1832.00,2,2,3,223,"Lost Customers"
+1815,179,1,1815.00,1,1,3,113,"Lost Customers"
+300,25,6,1800.00,4,4,3,443,"Loyal Customers"
+40,2,38,1800.00,5,5,3,553,"Loyal Customers"
+1785,200,1,1785.00,1,1,3,113,"Lost Customers"
+74,4,24,1776.00,5,5,3,553,"Loyal Customers"
+63,4,24,1764.00,5,5,3,553,"Loyal Customers"
+9,4,166,1746.00,4,5,3,453,"Loyal Customers"
+1740,31,1,1740.00,3,2,3,323,"Needs Attention"
+576,36,3,1728.00,3,3,3,333,"Loyal Customers"
+1700,202,1,1700.00,1,1,3,113,"Lost Customers"
+558,195,2,1674.00,1,2,3,123,"Lost Customers"
+111,33,11,1665.00,3,4,3,343,"Loyal Customers"
+830,68,2,1660.00,2,3,3,233,"At Risk / Can't Lose"
+1656,64,1,1656.00,3,2,3,323,"Needs Attention"
+405,37,4,1620.00,3,3,3,333,"Loyal Customers"
+1603,86,1,1603.00,2,1,3,213,"Lost Customers"
+400,18,4,1600.00,4,3,3,433,"Loyal Customers"
+264,81,6,1584.00,2,4,3,243,"At Risk / Can't Lose"
+1581,3,1,1581.00,5,2,3,523,"Recent / Promising"
+1494,36,1,1494.00,3,2,3,323,"Needs Attention"
+745,128,2,1490.00,2,2,3,223,"Lost Customers"
+1485,268,1,1485.00,1,1,3,113,"Lost Customers"
+1484,373,1,1484.00,1,1,3,113,"Lost Customers"
+212,64,7,1484.00,3,4,3,343,"Loyal Customers"
+370,78,4,1480.00,2,3,3,233,"At Risk / Can't Lose"
+46,3,32,1472.00,5,5,3,553,"Loyal Customers"
+210,50,4,1470.00,3,3,3,333,"Loyal Customers"
+1431,260,1,1431.00,1,1,3,113,"Lost Customers"
+714,37,2,1428.00,3,3,3,333,"Loyal Customers"
+108,57,10,1404.00,3,4,3,343,"Loyal Customers"
+1396,282,1,1396.00,1,1,3,113,"Lost Customers"
+1392,261,1,1392.00,1,1,3,113,"Lost Customers"
+687,86,2,1374.00,2,3,3,233,"At Risk / Can't Lose"
+1368,128,1,1368.00,2,1,3,213,"Lost Customers"
+340,24,4,1360.00,4,3,3,433,"Loyal Customers"
+678,46,2,1356.00,3,3,3,333,"Loyal Customers"
+26,17,52,1352.00,4,5,3,453,"Loyal Customers"
+675,50,2,1350.00,3,3,3,333,"Loyal Customers"
+674,359,1,1348.00,1,1,3,113,"Lost Customers"
+1341,68,1,1341.00,2,2,3,223,"Lost Customers"
+444,5,3,1332.00,4,3,3,433,"Loyal Customers"
+1320,268,1,1320.00,1,1,3,113,"Lost Customers"
+1295,65,1,1295.00,3,2,3,323,"Needs Attention"
+642,68,2,1284.00,2,3,3,233,"At Risk / Can't Lose"
+640,108,2,1280.00,2,2,3,223,"Lost Customers"
+116,55,11,1276.00,3,4,3,343,"Loyal Customers"
+1275,359,1,1275.00,1,1,3,113,"Lost Customers"
+1272,71,1,1272.00,2,2,3,223,"Lost Customers"
+1253,65,1,1253.00,3,2,3,323,"Needs Attention"
+1250,130,1,1250.00,2,1,3,213,"Lost Customers"
+416,66,1,1248.00,2,2,2,222,"Lost Customers"
+208,8,6,1248.00,4,4,3,443,"Loyal Customers"
+1224,115,1,1224.00,2,1,2,212,"Lost Customers"
+600,165,2,1200.00,1,2,2,122,"Lost Customers"
+100,3,12,1200.00,5,4,2,542,"Loyal Customers"
+1177,212,1,1177.00,1,1,2,112,"Lost Customers"
+1176,207,1,1176.00,1,1,2,112,"Lost Customers"
+1170,3,1,1170.00,5,2,2,522,"Recent / Promising"
+117,9,10,1170.00,4,4,2,442,"Loyal Customers"
+1155,268,1,1155.00,1,1,2,112,"Lost Customers"
+1152,261,1,1152.00,1,1,2,112,"Lost Customers"
+1134,201,1,1134.00,1,1,2,112,"Lost Customers"
+1125,23,1,1125.00,4,2,2,422,"Recent / Promising"
+1080,2,1,1080.00,5,2,2,522,"Recent / Promising"
+1074,65,1,1074.00,3,2,2,322,"Needs Attention"
+1062,66,1,1062.00,2,2,2,222,"Lost Customers"
+1058,115,1,1058.00,2,1,2,212,"Lost Customers"
+518,65,2,1036.00,3,3,2,332,"Loyal Customers"
+1024,26,1,1024.00,4,2,2,422,"Recent / Promising"
+169,108,5,1014.00,2,4,2,242,"At Risk / Can't Lose"
+1008,44,1,1008.00,3,2,2,322,"Needs Attention"
+1000,37,1,1000.00,3,2,2,322,"Needs Attention"
+960,38,1,960.00,3,2,2,322,"Needs Attention"
+315,75,3,945.00,2,3,2,232,"At Risk / Can't Lose"
+468,36,2,936.00,3,3,2,332,"Loyal Customers"
+925,65,1,925.00,3,2,2,322,"Needs Attention"
+69,2,13,897.00,5,4,2,542,"Loyal Customers"
+894,68,1,894.00,2,2,2,222,"Lost Customers"
+149,53,3,894.00,3,3,2,332,"Loyal Customers"
+891,66,1,891.00,2,2,2,222,"Lost Customers"
+888,96,1,888.00,2,1,2,212,"Lost Customers"
+148,38,6,888.00,3,4,2,342,"Loyal Customers"
+440,25,2,880.00,4,3,2,432,"Loyal Customers"
+438,65,2,876.00,3,3,2,332,"Loyal Customers"
+54,1,14,864.00,5,4,2,542,"Loyal Customers"
+430,53,2,860.00,3,3,2,332,"Loyal Customers"
+850,207,1,850.00,1,1,2,112,"Lost Customers"
+848,5,1,848.00,4,2,2,422,"Recent / Promising"
+417,38,2,834.00,3,3,2,332,"Loyal Customers"
+119,17,7,833.00,4,4,2,442,"Loyal Customers"
+83,31,7,830.00,3,4,2,342,"Loyal Customers"
+812,163,1,812.00,1,1,2,112,"Lost Customers"
+810,328,1,810.00,1,1,2,112,"Lost Customers"
+799,177,1,799.00,1,1,2,112,"Lost Customers"
+792,99,1,792.00,2,1,2,212,"Lost Customers"
+158,46,4,790.00,3,3,2,332,"Loyal Customers"
+130,151,3,780.00,2,3,2,232,"At Risk / Can't Lose"
+765,25,1,765.00,4,2,2,422,"Recent / Promising"
+764,359,1,764.00,1,1,2,112,"Lost Customers"
+378,25,2,756.00,4,3,2,432,"Loyal Customers"
+742,124,1,742.00,2,1,2,212,"Lost Customers"
+740,115,1,740.00,2,1,2,212,"Lost Customers"
+243,3,3,729.00,5,3,2,532,"Loyal Customers"
+357,4,2,714.00,5,3,2,532,"Loyal Customers"
+708,53,1,708.00,3,2,2,322,"Needs Attention"
+354,11,1,708.00,4,2,2,422,"Recent / Promising"
+699,302,1,699.00,1,1,2,112,"Lost Customers"
+696,88,1,696.00,2,1,2,212,"Lost Customers"
+684,47,1,684.00,3,2,2,322,"Needs Attention"
+84,36,7,672.00,3,4,2,342,"Loyal Customers"
+657,241,1,657.00,1,1,2,112,"Lost Customers"
+324,265,2,648.00,1,2,2,122,"Lost Customers"
+318,50,2,636.00,3,3,2,332,"Loyal Customers"
+630,37,1,630.00,3,2,2,322,"Needs Attention"
+312,143,2,624.00,2,2,2,222,"Lost Customers"
+156,79,3,624.00,2,3,2,232,"At Risk / Can't Lose"
+88,26,7,616.00,4,4,2,442,"Loyal Customers"
+615,233,1,615.00,1,1,2,112,"Lost Customers"
+29,6,18,609.00,4,4,2,442,"Loyal Customers"
+590,367,1,590.00,1,1,2,112,"Lost Customers"
+147,143,2,588.00,2,2,2,222,"Lost Customers"
+580,66,1,580.00,2,2,2,222,"Lost Customers"
+96,158,5,576.00,1,4,2,142,"At Risk / Can't Lose"
+189,45,3,567.00,3,3,2,332,"Loyal Customers"
+80,93,7,560.00,2,4,2,242,"At Risk / Can't Lose"
+79,26,6,553.00,4,4,1,441,"Loyal Customers"
+550,74,1,550.00,2,2,1,221,"Lost Customers"
+544,239,1,544.00,1,1,1,111,"Lost Customers"
+177,74,3,531.00,2,3,1,231,"At Risk / Can't Lose"
+525,281,1,525.00,1,1,1,111,"Lost Customers"
+498,68,1,498.00,2,2,1,221,"Lost Customers"
+159,185,3,477.00,1,3,1,131,"At Risk / Can't Lose"
+237,5,1,474.00,4,2,1,421,"Recent / Promising"
+118,6,4,472.00,4,3,1,431,"Loyal Customers"
+465,191,1,465.00,1,1,1,111,"Lost Customers"
+464,373,1,464.00,1,1,1,111,"Lost Customers"
+231,109,2,462.00,2,2,1,221,"Lost Customers"
+228,47,2,456.00,3,3,1,331,"Loyal Customers"
+65,120,7,455.00,2,4,1,241,"At Risk / Can't Lose"
+226,157,2,452.00,2,2,1,221,"Lost Customers"
+220,101,2,440.00,2,3,1,231,"At Risk / Can't Lose"
+435,139,1,435.00,2,1,1,211,"Lost Customers"
+425,372,1,425.00,1,1,1,111,"Lost Customers"
+414,26,1,414.00,4,2,1,421,"Recent / Promising"
+398,327,1,398.00,1,1,1,111,"Lost Customers"
+392,253,1,392.00,1,1,1,111,"Lost Customers"
+380,204,1,380.00,1,1,1,111,"Lost Customers"
+377,71,1,377.00,2,2,1,221,"Lost Customers"
+53,43,7,371.00,3,4,1,341,"Loyal Customers"
+52,23,7,364.00,4,4,1,441,"Loyal Customers"
+176,26,2,352.00,4,3,1,431,"Loyal Customers"
+12,5,22,348.00,4,5,1,451,"Loyal Customers"
+342,61,1,342.00,3,2,1,321,"Needs Attention"
+167,172,2,334.00,1,2,1,121,"Lost Customers"
+109,87,2,327.00,2,3,1,231,"At Risk / Can't Lose"
+326,79,1,326.00,2,2,1,221,"Lost Customers"
+48,46,2,288.00,3,3,1,331,"Loyal Customers"
+276,355,1,276.00,1,1,1,111,"Lost Customers"
+273,312,1,273.00,1,1,1,111,"Lost Customers"
+266,55,1,266.00,3,2,1,321,"Needs Attention"
+133,82,2,266.00,2,3,1,231,"At Risk / Can't Lose"
+265,366,1,265.00,1,1,1,111,"Lost Customers"
+129,129,2,258.00,2,2,1,221,"Lost Customers"
+238,174,1,238.00,1,1,1,111,"Lost Customers"
+234,164,1,234.00,1,1,1,111,"Lost Customers"
+4,4,55,224.00,4,5,1,451,"Loyal Customers"
+219,62,1,219.00,3,2,1,321,"Needs Attention"
+35,26,6,210.00,4,4,1,441,"Loyal Customers"
+200,5,1,200.00,4,2,1,421,"Recent / Promising"
+199,15,1,199.00,4,2,1,421,"Recent / Promising"
+24,184,6,192.00,1,4,1,141,"At Risk / Can't Lose"
+187,171,1,187.00,1,1,1,111,"Lost Customers"
+92,26,2,184.00,4,3,1,431,"Loyal Customers"
+22,191,8,176.00,1,4,1,141,"At Risk / Can't Lose"
+43,187,4,172.00,1,3,1,131,"At Risk / Can't Lose"
+168,45,1,168.00,3,2,1,321,"Needs Attention"
+6,2,20,168.00,5,5,1,551,"Loyal Customers"
+31,215,5,155.00,1,4,1,141,"At Risk / Can't Lose"
+3,2,47,144.00,5,5,1,551,"Loyal Customers"
+138,365,1,138.00,1,1,1,111,"Lost Customers"
+128,227,1,128.00,1,1,1,111,"Lost Customers"
+122,25,1,122.00,4,2,1,421,"Recent / Promising"
+114,68,1,114.00,2,2,1,221,"Lost Customers"
+19,152,5,114.00,2,4,1,241,"At Risk / Can't Lose"
+112,45,1,112.00,3,2,1,321,"Needs Attention"
+110,151,1,110.00,2,1,1,211,"Lost Customers"
+107,17,1,107.00,4,2,1,421,"Recent / Promising"
+77,206,1,77.00,1,1,1,111,"Lost Customers"
+70,248,1,70.00,1,1,1,111,"Lost Customers"
+32,53,2,64.00,3,3,1,331,"Loyal Customers"
+57,67,1,57.00,2,2,1,221,"Lost Customers"
+8,27,7,56.00,4,4,1,441,"Loyal Customers"
+11,93,3,55.00,2,3,1,231,"At Risk / Can't Lose"
+38,258,1,38.00,1,1,1,111,"Lost Customers"
+16,8,2,32.00,4,3,1,431,"Loyal Customers"
+7,100,3,21.00,2,3,1,231,"At Risk / Can't Lose"
+14,227,1,14.00,1,1,1,111,"Lost Customers"
+2,76,7,14.00,2,4,1,241,"At Risk / Can't Lose"
+1,3,12,12.00,5,4,1,541,"Loyal Customers"
